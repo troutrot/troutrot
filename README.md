@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/troutrot/troutrot/">
+    <img src="https://komarev.com/ghpvc/?username=troutrot" alt="troutrot" />
+  </a>
+</p>
